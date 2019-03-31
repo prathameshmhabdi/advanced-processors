@@ -1,0 +1,65 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Admin\Desktop\ADCAnil\ADC.uvproj
+Project File Date:  03/30/2019
+
+<h2>Output:</h2>
+compiling ADC.c...
+LCD.h(61): warning:  #1-D: last line of file ends without a newline
+UART0.h(31): warning:  #1-D: last line of file ends without a newline
+ADC.c(34): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "unsigned char *"
+ADC.c(41): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "unsigned char *"
+ADC.c(46): warning:  #1-D: last line of file ends without a newline
+ADC.c - 0 Error(s), 5 Warning(s).
+compiling ADC.c...
+LCD.h(61): warning:  #1-D: last line of file ends without a newline
+UART0.h(31): warning:  #1-D: last line of file ends without a newline
+ADC.c(46): warning:  #1-D: last line of file ends without a newline
+ADC.c - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling ADC.c...
+LCD.h(61): warning:  #1-D: last line of file ends without a newline
+UART0.h(31): warning:  #1-D: last line of file ends without a newline
+ADC.c(46): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=3076 RO-data=92 RW-data=8 ZI-data=1272  
+"ADC.axf" - 0 Error(s), 3 Warning(s).
+compiling ADC.c...
+LCD.h(61): warning:  #1-D: last line of file ends without a newline
+UART0.h(31): warning:  #1-D: last line of file ends without a newline
+ADC.c(46): warning:  #1-D: last line of file ends without a newline
+ADC.c - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3348 RO-data=92 RW-data=8 ZI-data=1272  
+FromELF: creating hex file...
+"ADC.axf" - 0 Error(s), 0 Warning(s).
+compiling ADC.c...
+LCD.h(61): warning:  #1-D: last line of file ends without a newline
+UART0.h(31): warning:  #1-D: last line of file ends without a newline
+ADC.c(46): warning:  #1-D: last line of file ends without a newline
+ADC.c - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3348 RO-data=92 RW-data=8 ZI-data=1272  
+FromELF: creating hex file...
+"ADC.axf" - 0 Error(s), 0 Warning(s).
+compiling ADC.c...
+LCD.h(61): warning:  #1-D: last line of file ends without a newline
+UART0.h(31): warning:  #1-D: last line of file ends without a newline
+ADC.c(46): warning:  #1-D: last line of file ends without a newline
+ADC.c - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3348 RO-data=92 RW-data=8 ZI-data=1272  
+FromELF: creating hex file...
+"ADC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3348 RO-data=92 RW-data=8 ZI-data=1272  
+FromELF: creating hex file...
+"ADC.axf" - 0 Error(s), 0 Warning(s).

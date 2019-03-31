@@ -1,0 +1,7 @@
+--cpu ARM7TDMI
+".\objects\startup.o"
+".\objects\main.o"
+--strict --scatter ".\Objects\LPC2148_GLCD.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\LPC2148_GLCD.map" -o .\Objects\LPC2148_GLCD.axf

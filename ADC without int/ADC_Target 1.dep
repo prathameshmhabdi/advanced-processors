@@ -1,0 +1,7 @@
+Dependencies for Project 'ADC', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4C80E0AC)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 526"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\ADC.c)(0x5CA0DC1E)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\adc.o --omf_browse .\adc.crf --depend .\adc.d)
+I (C:\Keil_v5\ARM\INC\Philips\LPC214X.H)(0x559CFE30)
+I (lcd.h)(0x5C7CCDBD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EFE64)
+F (.\lcd.h)(0x5C7CCDBD)()
